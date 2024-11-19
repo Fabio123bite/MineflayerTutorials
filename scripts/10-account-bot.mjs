@@ -4,9 +4,9 @@ import { readFile } from 'fs/promises';
 
 // Setup global bot arguments
 let botArgs = {
-    host: 'localhost',
-    port: '55216',
-    version: '1.8.9'
+    host: 'FriendlyG.aternos.me:26354',
+    port: '26354',
+    version: '1.21.3'
 };
 
 // Bot class
